@@ -1,2 +1,2 @@
-# webpack-babel-react-redux-graphql
+# MERNG Boilerplate
 A boilerplate for react-redux combination
